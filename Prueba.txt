@@ -1,2 +1,5 @@
-este es un texto de prueba
-Este es la segunda linea agregada
+Bienvenidos a Git
+
+nosotros somos estudiantes de la UTEA
+
+es la historia de como desarrollamos software
